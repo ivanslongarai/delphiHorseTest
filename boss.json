@@ -1,0 +1,14 @@
+{
+	"name": "backEnd",
+	"description": "\u001b[3~\u001b[3~",
+	"version": "1.1.0\u001b[D\u001b[D\u001b[D\u001b[3~0\u001b[F",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/horse": "^2.0.13",
+		"github.com/hashload/horse-basic-auth": "^v1.1.4",
+		"github.com/hashload/horse-jwt": "^2.0.4",
+		"github.com/hashload/jhonson": "^1.1.2"
+	}
+}
